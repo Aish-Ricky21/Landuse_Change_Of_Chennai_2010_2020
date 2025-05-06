@@ -1,0 +1,44 @@
+[
+  {
+    "CLASS NAME": "BARE LAND",
+    "LOSS": 2.6613,
+    "GAIN": 7.7715,
+    "UNCHANGE": 0.8136,
+    "CHANGE INDEX": 6.280973451
+  },
+  {
+    "CLASS NAME": "HIGH DENSITY URBAN",
+    "LOSS": 134.1684,
+    "GAIN": 199.5183,
+    "UNCHANGE": 112.1121,
+    "CHANGE INDEX": 0.582897832
+  },
+  {
+    "CLASS NAME": "LOW DENSITY URBAN",
+    "LOSS": 152.7642,
+    "GAIN": 106.9371,
+    "UNCHANGE": 63.6867,
+    "CHANGE INDEX": -0.719570962
+  },
+  {
+    "CLASS NAME": "SRUB",
+    "LOSS": 67.0104,
+    "GAIN": 40.7907,
+    "UNCHANGE": 14.1768,
+    "CHANGE INDEX": -1.849479431
+  },
+  {
+    "CLASS NAME": "VEGETATION",
+    "LOSS": 55.2132,
+    "GAIN": 53.4339,
+    "UNCHANGE": 26.7597,
+    "CHANGE INDEX": -0.066491777
+  },
+  {
+    "CLASS NAME": "WATERBODY",
+    "LOSS": 16.7886,
+    "GAIN": 20.1546,
+    "UNCHANGE": 12.2769,
+    "CHANGE INDEX": 0.274173448
+  }
+]
